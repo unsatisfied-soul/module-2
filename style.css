@@ -1,0 +1,21 @@
+body{
+   text-align: center;
+   margin: 0 auto;
+   background-color: rgb(1, 1, 59);
+}
+#title{
+   font-size: 60px;
+   font-family: tahoma, serif;
+   color: yellow;
+}
+.container{
+   width: 50%;
+   margin: 0 auto;
+   background-color: #F3DEFF ;
+   padding: 20px 20px;
+   border: 4px solid yellow;
+   margin-bottom: 10px;
+}
+.heading{
+   font-size: 35px;
+}
