@@ -19,3 +19,7 @@ body{
 .heading{
    font-size: 35px;
 }
+.add-1 img{
+   width: 30%;
+   float: left;
+}
